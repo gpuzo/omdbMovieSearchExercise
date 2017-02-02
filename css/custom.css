@@ -1,0 +1,60 @@
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.CenterText {
+	text-align:center;
+}
+
+.container {
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#FBF5E6;
+	width:600px;
+	height:100px;
+	padding:20px;
+}
+
+#SearchTextBox{
+	width:85%;
+	float:left;
+
+}
+#SearchButton{
+	width:14%;
+	float:right;
+
+}
+.MovieBox {
+	width:800px;
+	padding:20px;
+	background-color:#FBF5E6;
+	margin-top:20px;
+	margin-left:auto;
+	margin-right:auto;
+	height:400px;
+}
+.BoxItem {
+	float:left;
+	margin-left:20px;
+	margin-bottom:35px;
+	width:33%;
+}
+
+.Actors {
+	margin-bottom:65px;
+}
+
+.Border {
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+}
+
+.Poster {
+	max-height:350px;
+	float:left;
+	width:33%;
+
+}
